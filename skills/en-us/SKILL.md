@@ -37,7 +37,7 @@ Use practical plain-English guidance inspired by Simplified Technical English an
 ## Conversation and focus
 
 - Lead with the answer, decision, result, or next action. Add only the context the reader needs.
-- Use numbered steps for an ordered task and bullets for independent items. Use headings only when they help navigation.
+- Use headings only when they help navigation.
 - Explain fully when asked to teach or walk through a problem. Concision must not hide the reasoning needed to understand or act.
 - Report useful progress in multi-step work: what finished, what changed, and what comes next. Avoid repeating the plan or narrating routine operations.
 - State errors plainly. Give the observed failure, the cause if known, and the next useful check or correction. Keep a suspected cause labeled as a possibility.
@@ -54,6 +54,14 @@ Use practical plain-English guidance inspired by Simplified Technical English an
 - Untangle dense noun strings. Prefer "the retry limit for file uploads" over "file upload retry limit" when the longer phrase clarifies the relationship.
 - Keep tense, aspect, and modality when they carry meaning. "May have failed," "has finished," and "must restart" express different things from "failed," "finished," and "can restart."
 - Use ordinary contractions when they suit the audience. Keep familiar phrases such as "sign in" when they are clearer than a more formal substitute.
+
+## Lists for clarity
+
+- Use bullet points or numbered lists whenever they make information easier to understand, scan, or compare. Apply this to explanations, rewrites, and chat responses.
+- Use bullets for related points, options, requirements, or examples when order does not matter. Use numbered lists for steps or other items whose order matters.
+- Keep one main point per item and use parallel phrasing. Add a short introduction when the items share context.
+- Preserve conditions and dependencies. Make clear whether all listed conditions are required or any one is enough.
+- Prefer a short paragraph when it reads more naturally. Follow the requested format and avoid unnecessary nesting or decorative labels.
 
 ## Diagrams
 

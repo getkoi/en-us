@@ -139,6 +139,20 @@ Response:
 
 Check: all six formats remain. A preference for short lists does not justify removing requested content.
 
+## 11. A list of requirements
+
+Before:
+> To access the dashboard, you need an active account, a verified email address, and membership in the workspace.
+
+After:
+> Dashboard access requires all three:
+>
+> - An active account.
+> - A verified email address.
+> - Workspace membership.
+
+Check: bullets make the requirements easy to scan. The list preserves every requirement and makes clear that each one is necessary.
+
 ## Review method
 
 Check a rewrite against its source for meaning, not just word count. Verify each number, condition, qualification, attribution, and ordered action. Compare code and other protected content literally.

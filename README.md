@@ -35,7 +35,7 @@ For voice matching, provide a writing sample. For file editing, name the file an
 - Prefer familiar words, concrete verbs, and consistent terms. Review sentences over 25 words.
 - Preserve facts, conditions, uncertainty, requirement strength, and necessary detail.
 - Use American spelling and consistent editorial conventions. Keep natural contractions and the author's voice.
-- Use a small diagram when it makes a flow or relationship easier to understand.
+- Use bullets, numbered lists, or a small diagram when they make the explanation easier to follow.
 
 Sentence lengths are flexible targets. A longer explanation is welcome when it prevents a misunderstanding. The skill preserves code, commands, paths, identifiers, frontmatter, data, and link destinations during prose edits.
 
