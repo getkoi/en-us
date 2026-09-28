@@ -1,0 +1,7 @@
+interface:
+  display_name: EN-US
+  short_description: Clear, concise, natural writing in US English.
+  brand_color: "#2457A7"
+  default_prompt: Use $en-us to rewrite this text in concise US English while preserving its meaning and my voice.
+policy:
+  allow_implicit_invocation: false

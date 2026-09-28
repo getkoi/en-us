@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "en-us",
+  "description": "A skill for clear, concise writing in US English.",
+  "owner": {
+    "name": "matheusps"
+  },
+  "plugins": [
+    {
+      "name": "en-us",
+      "description": "Writes and edits concise, natural US English while preserving meaning and voice.",
+      "source": "./",
+      "category": "productivity",
+      "tags": [
+        "writing",
+        "en-us",
+        "plain-language",
+        "localization"
+      ]
+    }
+  ]
+}

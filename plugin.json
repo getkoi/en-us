@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "en-us",
+  "version": "1.0.0",
+  "description": "Writes and edits concise, natural US English while preserving meaning and voice.",
+  "author": {
+    "name": "matheusps",
+    "url": "https://github.com/matheusps"
+  },
+  "license": "MIT",
+  "keywords": [
+    "english",
+    "en-us",
+    "plain-language",
+    "writing",
+    "editing",
+    "localization"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "EN-US",
+        "shortDescription": "Clear, concise, natural writing in US English.",
+        "longDescription": "Writes and revises US English with plain words, short sentences, and the main point first. Removes filler while preserving facts, conditions, uncertainty, and the author's voice.",
+        "developerName": "matheusps",
+        "category": "Writing",
+        "capabilities": [
+          "Writing",
+          "Editing"
+        ],
+        "brandColor": "#2457A7",
+        "defaultPrompt": [
+          "Use $en-us to rewrite this text in concise US English.",
+          "Use $en-us to simplify this technical explanation without losing conditions or uncertainty.",
+          "Use $en-us to remove filler while preserving my voice."
+        ]
+      }
+    }
+  }
+}
